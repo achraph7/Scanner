@@ -1,0 +1,14 @@
+C:\Users\Achraf Mouatta\source\repos\ScannerAppIrma\ScannerAppIrma\bin\Debug\ScannerAppIrma.exe.config
+C:\Users\Achraf Mouatta\source\repos\ScannerAppIrma\ScannerAppIrma\bin\Debug\ScannerAppIrma.exe
+C:\Users\Achraf Mouatta\source\repos\ScannerAppIrma\ScannerAppIrma\bin\Debug\ScannerAppIrma.pdb
+C:\Users\Achraf Mouatta\source\repos\ScannerAppIrma\ScannerAppIrma\obj\Debug\ScannerAppIrma.csproj.AssemblyReference.cache
+C:\Users\Achraf Mouatta\source\repos\ScannerAppIrma\ScannerAppIrma\obj\Debug\ScannerAppIrma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achraf Mouatta\source\repos\ScannerAppIrma\ScannerAppIrma\obj\Debug\ScannerAppIrma.Form1.resources
+C:\Users\Achraf Mouatta\source\repos\ScannerAppIrma\ScannerAppIrma\obj\Debug\ScannerAppIrma.Properties.Resources.resources
+C:\Users\Achraf Mouatta\source\repos\ScannerAppIrma\ScannerAppIrma\obj\Debug\ScannerAppIrma.csproj.GenerateResource.cache
+C:\Users\Achraf Mouatta\source\repos\ScannerAppIrma\ScannerAppIrma\obj\Debug\ScannerAppIrma.csproj.CoreCompileInputs.cache
+C:\Users\Achraf Mouatta\source\repos\ScannerAppIrma\ScannerAppIrma\obj\Debug\ScannerAppIrma.exe
+C:\Users\Achraf Mouatta\source\repos\ScannerAppIrma\ScannerAppIrma\obj\Debug\ScannerAppIrma.pdb
+C:\Users\Achraf Mouatta\source\repos\ScannerAppIrma\ScannerAppIrma\bin\Debug\Interop.WIA.dll
+C:\Users\Achraf Mouatta\source\repos\ScannerAppIrma\ScannerAppIrma\obj\Debug\Interop.WIA.dll
+C:\Users\Achraf Mouatta\source\repos\ScannerAppIrma\ScannerAppIrma\obj\Debug\ScannerAppIrma.csproj.ResolveComReference.cache
